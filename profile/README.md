@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="assets/banner.png" alt="SPORTYⅡ · AI 기반 생활체육 매칭 플랫폼" width="100%">
+  
+<img width="2170" height="725" alt="banner" src="https://github.com/user-attachments/assets/31f8eef7-7c38-4c20-9aaf-934fb7716937" />
 
 # Sporty v2
 
